@@ -1,6 +1,6 @@
 {
 	"name": "innoweb/silverstripe-common-password-validation",
-	"description": "Adds additional validation steps to PasswordValidator to check for common passwords, the member's name and repeated characters",
+	"description": "Adds additional validation steps to PasswordValidator to check for commonly used passwords, the member's name and repeated characters",
 	"type": "silverstripe-vendormodule",
 	"license": "BSD-3-Clause",
 	"keywords": ["silverstripe", "password", "security", "validator"],

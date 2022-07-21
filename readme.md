@@ -5,7 +5,7 @@
 
 ## Overview
 
-Adds additional validation steps to PasswordValidator to check for common passwords, the member's name and repeated characters.
+Adds additional validation steps to PasswordValidator to check for commonly used passwords, the member's name and repeated characters.
 
 ## Requirements
 
