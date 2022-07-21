@@ -1,4 +1,4 @@
-# Silverstripe Robots.txt
+# Silverstripe Common Password Validation
 
 [![Version](http://img.shields.io/packagist/v/innoweb/silverstripe-common-password-validation.svg?style=flat-square)](https://packagist.org/packages/innoweb/silverstripe-common-password-validation)
 [![License](http://img.shields.io/packagist/l/innoweb/silverstripe-common-password-validation.svg?style=flat-square)](license.md)
