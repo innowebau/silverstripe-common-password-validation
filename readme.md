@@ -9,7 +9,9 @@ Adds additional validation steps to PasswordValidator to check for commonly used
 
 ## Requirements
 
-* Silverstripe Framework ^4.11
+* Silverstripe Framework ^5
+  
+Note: this version is compatible with SilverStripe 5. For SilverStripe 4, please see the [1 release line](https://github.com/innowebau/silverstripe-common-password-validation/tree/1).
 
 ## Installation
 
